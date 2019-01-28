@@ -112,8 +112,5 @@ This function takes player input, random chooses computer input and decides who 
 
     return None
 
-
 #test 
 rpsls("rock")
-
-
