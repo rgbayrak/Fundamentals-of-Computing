@@ -2,7 +2,8 @@
 ### Pytorch & Codesculpture
 #### Python 3.6
 
-Week3 GUI
+# Week3 - GUI
+
 SimpleGUI program template
 
 1. Import the module
