@@ -1,7 +1,9 @@
 import simplegui
 import random
 
-# binary search
+# The key idea of this program is using binary search 
+# to find the secret number.
+
 # global variables
 secret_num = 0	
 n = 7
