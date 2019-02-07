@@ -4,13 +4,30 @@
 
 ### Week3 - GUI
 
-SimpleGUI program template
+List of Mini Projects
 
-1. Import the module
-import simplegui
-2. Define global variables (program state)
-3. Define "helper" functions
-4. Define event handler functions
-5. Create a frame
-6. Register event handlers
-7. Start frame and timers
+*   Rock-paper-scissors-lizard-Spock
+*   Guess the Number!
+*   Stopwatch: The Game
+*   Pong
+    Memory
+    Blackjack
+    Spaceship
+    RiceRocks (clone of classic arcade game Asteroids)
+    2048 (Merge)
+    2048 (Full)
+    Tic-Tac-Toe (Monte Carlo)
+    Yahtzee
+    Cookie Clicker
+    Zombie Apocalypse
+    Word Wrangler
+    Tic-Tac-Toe (Minimax)
+    The Fifteen Puzzle
+    Degree Distributions for Graphs
+    Analysis of Citation Graphs
+    Connected Components and Graph Resilience
+    Analysis of a Computer Network
+    Closest Pairs and Clustering Algorithms
+    Comparison of Clustering Algorithms
+    Computing Alignment of Sequences
+    Applications to Genomics and Beyond
