@@ -3,8 +3,8 @@
 
 List of Mini Projects
 
-*   Rock-paper-scissors-lizard-Spock
-*   Guess the Number!
+*   Rock-paper-scissors-lizard-Spock www.codeskulptor.org/#user45_Sj8ranjWRN_0.py
+*   Guess the Number! http://www.codeskulptor.org/#user45_dpwT6TRHNd_3.py
 *   Stopwatch: The Game
 *   Pong
 *   Memory
