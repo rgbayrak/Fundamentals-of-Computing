@@ -34,7 +34,6 @@ This function converts user input string to a number.
 
     return number
 
-
 def number_to_name(number):
 """
 This function converts number to a possible option string. 
