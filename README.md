@@ -1,6 +1,5 @@
 # Fundamentals of Computing
-### Pytorch & Codesculpture
-#### Python 3.6
+### Tools: Pytorch & Codesculpture (Python 3.6)
 
 List of Mini Projects
 
