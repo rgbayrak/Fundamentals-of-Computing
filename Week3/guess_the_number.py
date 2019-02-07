@@ -5,9 +5,11 @@ import random
 # to find the secret number.
 
 # global variables
-secret_num = 0	
-n = 7
+# initialize the variables
 current_guess = 0
+secret_num = 0	
+# default game 0-99
+n = 7
 new_range = 99
 
 # helper function to start and restart the game
