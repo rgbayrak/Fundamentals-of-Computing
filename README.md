@@ -2,8 +2,6 @@
 ### Pytorch & Codesculpture
 #### Python 3.6
 
-### Week3 - GUI
-
 List of Mini Projects
 
 *   Rock-paper-scissors-lizard-Spock
