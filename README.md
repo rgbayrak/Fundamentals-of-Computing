@@ -3,9 +3,9 @@
 
 List of Mini Projects
 
-*   Rock-paper-scissors-lizard-Spock www.codeskulptor.org/#user45_Sj8ranjWRN_0.py
-*   Guess the Number! http://www.codeskulptor.org/#user45_dpwT6TRHNd_3.py
-*   Stopwatch: The Game http://www.codeskulptor.org/#user45_DNQEpFnV7O_5.py
+*   Rock-paper-scissors-lizard-Spock www.codeskulptor.org/#user45_Sj8ranjWRN_0.py (Week2)
+*   Guess the Number! http://www.codeskulptor.org/#user45_dpwT6TRHNd_3.py (Week3)
+*   Stopwatch: The Game http://www.codeskulptor.org/#user45_DNQEpFnV7O_5.py (Week4)
 *   Pong
 *   Memory
 *   Blackjack
