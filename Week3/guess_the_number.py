@@ -47,14 +47,15 @@ def input_guess(guess):
     # Converts guess to integer.
     guess_int = int(guess)
     print "You guessed " + str(guess_int) + "."
-    # Increments global variable current_guess.
-    current_guess += 1
-    remaining_guesses = n - current_guess
     
     # Compares guess to secret_num.
     if guess_int > new_range:
         print "Guess a number between 0-" + str(new_range) + "! Make sure you are within the limit!\n"  
     else:
+        # Increments global variable current_guess.
+        current_guess += 1
+        remaining_guesses = n - current_guess
+        
         if (remaining_guesses == 0) and (guess_int != secret_num):
             print "Game over! Secret number was " + str(secret_num) + "."
             new_game()
