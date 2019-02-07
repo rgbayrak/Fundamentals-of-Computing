@@ -19,7 +19,7 @@ def format(time):
     x = time % 10 # 0.1 increments
     y = (time/10) % 60 # seconds
     z = (time/10) / 60 # minutes
-    return '%d:%02d.%d' % (z, y, x)
+    return '%d:%02d.%d' % (z, y, x) # format did not work
     
 # define event handlers for buttons; "Start", "Stop", "Reset"
 def start():
@@ -30,7 +30,7 @@ def start():
 def stop():
     global state, hit, laps
     hit += 1
-    if (laps % 10) == 0:
+    if time % 10 < 10:
         laps += 1
     timer.stop()
     state = True
