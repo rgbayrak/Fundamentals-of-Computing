@@ -4,10 +4,13 @@
 List of Mini Projects
 
 Intro. to IPP (Part1)
-*   Rock-paper-scissors-lizard-Spock www.codeskulptor.org/#user45_Sj8ranjWRN_0.py (Week2)
-*   Guess the Number! http://www.codeskulptor.org/#user45_dpwT6TRHNd_3.py (Week3)
-*   Stopwatch: The Game http://www.codeskulptor.org/#user45_DNQEpFnV7O_5.py (Week4)
-*   Pong
+*   Rock-paper-scissors-lizard-Spock 
+www.codeskulptor.org/#user45_Sj8ranjWRN_0.py (Week2)
+*   Guess the Number! 
+http://www.codeskulptor.org/#user45_dpwT6TRHNd_3.py (Week3)
+*   Stopwatch: The Game 
+http://www.codeskulptor.org/#user45_DNQEpFnV7O_5.py (Week4)
+*   Pong. Objective: Lists
 
 Intro. to IPP (Part2)
 *   Memory
