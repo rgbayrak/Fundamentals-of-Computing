@@ -8,6 +8,7 @@ Intro. to IPP (Part1)
 *   Guess the Number! http://www.codeskulptor.org/#user45_dpwT6TRHNd_3.py (Week3)
 *   Stopwatch: The Game http://www.codeskulptor.org/#user45_DNQEpFnV7O_5.py (Week4)
 *   Pong
+
 Intro. to IPP (Part2)
 *   Memory
 *   Blackjack
@@ -19,6 +20,7 @@ Principles of Computing (Part1)
 *   2048 (Full)
 *   Tic-Tac-Toe (Monte Carlo)
 *   Yahtzee
+
 Principles of Computing (Part2)
 *   Cookie Clicker
 *   Zombie Apocalypse
@@ -31,6 +33,7 @@ Algorithmic Thinking (Part1)
 *   Analysis of Citation Graphs
 *   Connected Components and Graph Resilience
 *   Analysis of a Computer Network
+
 Algorithmic Thinking (Part2)
 *   Closest Pairs and Clustering Algorithms
 *   Comparison of Clustering Algorithms
