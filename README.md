@@ -10,10 +10,10 @@ www.codeskulptor.org/#user45_Sj8ranjWRN_0.py (Week2)
 http://www.codeskulptor.org/#user45_dpwT6TRHNd_3.py (Week3)
 *   Stopwatch: The Game 
 http://www.codeskulptor.org/#user45_DNQEpFnV7O_5.py (Week4)
-*   Pong. http://www.codeskulptor.org/#user45_GeQVam0ADN_0.py (Week5)
+*   Pong. http://www.codeskulptor.org/#user45_DBv0eb2D73_2.py (Week5)
 
 Intro. to IPP (Part2)
-*   Memory
+*   Memory. http://www.codeskulptor.org/#user45_MFYJZzpimk_0.py (Week6)
 *   Blackjack
 *   Spaceship
 *   RiceRocks (clone of classic arcade game Asteroids)
