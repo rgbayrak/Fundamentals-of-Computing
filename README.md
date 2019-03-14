@@ -15,7 +15,7 @@ http://www.codeskulptor.org/#user45_DNQEpFnV7O_5.py (Week4)
 Intro. to IPP (Part2)
 *   Memory. http://www.codeskulptor.org/#user45_MFYJZzpimk_0.py (Week6)
 *   Blackjack. http://www.codeskulptor.org/#user45_6h1xzMh89f_3.py (Week7)
-*   Spaceship. http://www.codeskulptor.org/#user45_zCcWfk8jvF_3.py (Week8)
+*   Spaceship. http://www.codeskulptor.org/#user45_zCcWfk8jvF_4.py (Week8)
 *   RiceRocks (clone of classic arcade game Asteroids)
 
 Principles of Computing (Part1)
