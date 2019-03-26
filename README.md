@@ -13,7 +13,7 @@ http://www.codeskulptor.org/#user45_DNQEpFnV7O_5.py (Week4)
 *   Pong. http://www.codeskulptor.org/#user45_l4FZhAHBPY_4.py (Week5)
 
 Intro. to IPP (Part2)
-*   Memory. http://www.codeskulptor.org/#user45_MFYJZzpimk_7.py (Week6)
+*   Memory. http://www.codeskulptor.org/#user45_MFYJZzpimk_8.py (Week6)
 *   Blackjack. (Week7)
 *   Spaceship. (Week8)
 *   RiceRocks (clone of classic arcade game Asteroids)
