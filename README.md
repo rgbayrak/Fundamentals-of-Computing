@@ -19,7 +19,7 @@ Intro. to IPP (Part2)
 *   RiceRocks (clone of arcade game Asteroids). http://www.codeskulptor.org/#user45_J6vO36vBtt_1.py (Week 9)
 
 Principles of Computing (Part1)
-*   2048 (Merge). http://www.codeskulptor.org/#user46_6VeyX9V10c_0.py
+*   2048 (Merge). http://www.codeskulptor.org/#user46_6VeyX9V10c_2.py
 *   2048 (Full)
 *   Tic-Tac-Toe (Monte Carlo)
 *   Yahtzee
