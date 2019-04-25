@@ -23,9 +23,9 @@ Principles of Computing (Part1)
 *   2048 (Full)
 *   Tic-Tac-Toe (Monte Carlo)
 *   Yahtzee
+*   Cookie Clicker
 
 Principles of Computing (Part2)
-*   Cookie Clicker
 *   Zombie Apocalypse
 *   Word Wrangler
 *   Tic-Tac-Toe (Minimax)
