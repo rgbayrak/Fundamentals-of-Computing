@@ -7,7 +7,7 @@ Intro. to IPP (Part1)
 *   Rock-paper-scissors-lizard-Spock 
 http://www.codeskulptor.org/#user46_Sj8ranjWRN_2.py (Week2)
 *   Guess the Number! 
-http://www.codeskulptor.org/#user45_dpwT6TRHNd_4.py (Week3)
+http://www.codeskulptor.org/#user45_dpwT6TRHNd_3.py (Week3)
 *   Stopwatch: The Game 
 http://www.codeskulptor.org/#user45_DNQEpFnV7O_5.py (Week4)
 *   Pong. http://www.codeskulptor.org/#user45_l4FZhAHBPY_6.py (Week5)
