@@ -20,7 +20,7 @@ Intro. to IPP (Part2)
 
 Principles of Computing (Part1)
 *   2048 (Merge). http://www.codeskulptor.org/#user46_6VeyX9V10c_2.py (Week 1)
-*   2048 (Full). http://www.codeskulptor.org/#user46_2p7fr3vGag_7.py (Week 2)
+*   2048 (Full). http://www.codeskulptor.org/#user46_2p7fr3vGag_9.py (Week 2)
 *   Tic-Tac-Toe (Monte Carlo) (Week3)
 *   Yahtzee (Week 4)
 *   Cookie Clicker (Week 5)
