@@ -5,7 +5,7 @@ List of Mini Projects
 
 Intro. to IPP (Part1)
 *   Rock-paper-scissors-lizard-Spock 
-www.codeskulptor.org/#user45_Sj8ranjWRN_1.py (Week2)
+http://www.codeskulptor.org/#user46_Sj8ranjWRN_1.py (Week2)
 *   Guess the Number! 
 http://www.codeskulptor.org/#user45_dpwT6TRHNd_3.py (Week3)
 *   Stopwatch: The Game 
