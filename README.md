@@ -22,7 +22,7 @@ Principles of Computing (Part1)
 *   2048 (Merge). http://www.codeskulptor.org/#user46_6VeyX9V10c_2.py (Week 1)
 *   2048 (Full). http://www.codeskulptor.org/#user46_2p7fr3vGag_9.py (Week 2)
 *   Tic-Tac-Toe (Monte Carlo). http://www.codeskulptor.org/#user46_NqtH2FaZst_6.py (Week3)
-*   Yahtzee. http://www.codeskulptor.org/#user46_FJ3INYf2Tj_0.py (Week 4)
+*   Yahtzee. http://www.codeskulptor.org/#user46_FJ3INYf2Tj_2.py (Week 4)
 *   Cookie Clicker (Week 5)
 
 Principles of Computing (Part2)
